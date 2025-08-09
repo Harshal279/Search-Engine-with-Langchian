@@ -27,19 +27,19 @@ this app provides **real-time, sourced answers** with transparent reasoning step
 
 ---
 
-## Link
+## Link Test the application live
 
 https://search-engine-with-langchian-e2r8x6aafd2lctaf9lxvzu.streamlit.app/
-
+### Note!: Get your own Groq key before testing it live
 ---
 
 ## 🛠 Installation Guide
-```bash
-pip install -r requirements.txt
-```
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/langchain-groq-search-agent.git
 cd langchain-groq-search-agent
+```
+```bash
+pip install -r requirements.txt
 ```
